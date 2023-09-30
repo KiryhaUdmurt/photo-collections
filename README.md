@@ -7,7 +7,7 @@ Photo Collections - это проект, разработанный на React �
 1. Склонируйте репозиторий на свой локальный компьютер:
 
 ```sh
-git clone https://github.com/<KiryhaUdmurt>/photo-collections.git
+git clone https://github.com/KiryhaUdmurt/photo-collections.git
 ```
 
 2. Установите зависимости, используя npm или yarn:
